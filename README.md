@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Grymnn
+- 👀 I’m interested in QA Engineering
+- 🌱 I’m currently learning Git
+- 📫 How to reach me  www.linkedin.com/in/kovalenko-qa
