@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Grymnn
 - 👀 I’m interested in Frontend Engineer
 - 🌱 I’m currently learning Git
-- 📫 How to reach me  www.linkedin.com/in/kovalenko-qa
+- 📫 How to reach me  www.linkedin.com/in/kovalenko-frontend
